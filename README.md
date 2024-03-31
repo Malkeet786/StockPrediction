@@ -30,6 +30,3 @@ Follow the on-screen prompts to input relevant data and receive stock prediction
 Contributing
 Contributions are welcome! Please follow the Contribution Guidelines.
 
-Acknowledgments
-Special thanks to [Shivanand Thakur] for their insightful contributions.
-For more details, refer to the Documentation.
