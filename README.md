@@ -18,8 +18,6 @@ Before running the application, ensure you have the following dependencies insta
 Python 3.x
 Required Python libraries (list them with installation commands)
 Installation
-Clone the repository:
-git clone https://github.com/your-username/stock-prediction.git
 Navigate to the project directory:
 cd stock-prediction
 Install the required dependencies:
